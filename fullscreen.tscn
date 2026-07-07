@@ -1,0 +1,13 @@
+[gd_scene format=3 uid="uid://clvr2ewrsf016"]
+
+[ext_resource type="Script" uid="uid://cob5pmmc64dko" path="res://button.gd" id="1_hn8ct"]
+
+[node name="CanvasLayer" type="CanvasLayer" unique_id=45697202]
+
+[node name="Button" type="Button" parent="." unique_id=1294159933]
+offset_right = 8.0
+offset_bottom = 8.0
+text = "Fullscreen"
+script = ExtResource("1_hn8ct")
+
+[connection signal="pressed" from="Button" to="Button" method="_on_pressed"]
