@@ -2,8 +2,7 @@
 
 A small test game where you play as a piece of toast jumping across platforms 
 
-> **This project is not finished.**
-> It is an early test/prototype created to experiment with gameplay mechanics and ideas for a larger game in the future.
+This test game not finished game : it is test for another cool game 
 
 ## About the Game
 
