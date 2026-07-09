@@ -1,6 +1,6 @@
-# Toast & Shooty Parkour (Prototype)
+# Toast & Shooty Parkour
 
-A small prototype game where you play as a brave piece of toast jumping across platforms and completing parkour challenges.
+A small test game where you play as a piece of toast jumping across platforms 
 
 > **This project is not finished.**
 > It is an early test/prototype created to experiment with gameplay mechanics and ideas for a larger game in the future.
@@ -9,29 +9,29 @@ A small prototype game where you play as a brave piece of toast jumping across p
 
 Toast Parkour is a 2D platformer where you control a toast through obstacle-filled levels. The current version focuses on testing:
 
-* 🏃 Smooth player movement
-* 🦘 Jumping and platforming
-* 🎨 Pixel art style
+* Smooth player movement
+* Jumping and platforming
+* Pixel art style
 
 More features, levels, enemies, and mechanics are planned for future versions.
 
-## 🚧 Current Status
+## Current Status
 
 This project is currently **in development**.
 
 Some features are incomplete or may change as the project grows.
 
-## 🛠️ Built With
+## Built With
 
 * **Engine:** Godot 4
 * **Language:** GDScript
 * **Art Style:** Pixel Art
 
-## 📌 Purpose
+## Purpose
 
 This game was created as a learning project to improve my game development skills and to test ideas for a bigger game in the future.
 
-## 🚀 Future Plans
+## Future Plans
 
 * More parkour levels
 * New enemies
