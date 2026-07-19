@@ -29,6 +29,8 @@ Some features are incomplete or may change as the project grows.
 ## Purpose
 
 This game was created as a learning project to improve my game development skills and to test ideas for a bigger game in the future.
+#Test the game
+https://ahmedalaa999.itch.io/toast-and-shooty
 
 ## Future Plans
 
